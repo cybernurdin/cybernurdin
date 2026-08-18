@@ -41,11 +41,17 @@ An AI-powered crisis-response and aid-tracking platform built for Bamenda.
 
 Chekkam
 
-A community-focused emergency response and public-safety platform designed to improve access to rapid assistance through location-aware alerts and digital coordination.
+A cybersecurity and digital-trust platform designed to help individuals and institutions in Cameroon detect scams, verify digital documents, and make safer decisions online.
+
+Chekkam combines AI-assisted suspicious-message analysis, scam and phishing reporting, cryptographic document signing and verification, browser/mobile checking, and human-reviewed community security intelligence.
 
 Achievement: 11th Position — National ICT Innovation Week 2026, Cameroon
 
-Focus: Emergency response, community safety, geolocation, real-time alerts, and digital public-safety infrastructure.
+Competition Theme: Protecting Cyberspace from the Misuse of Artificial Intelligence and Promoting Digital Patriotism.
+
+Security Focus: Cybersecurity, scam and phishing detection, digital trust, AI-assisted threat analysis, cryptographic verification, secure APIs, and identity/document authenticity.
+
+Core Technologies: Flutter, Next.js/React, Node.js, Supabase, AI-assisted risk analysis, SHA-256, ECDSA/RSA signatures, QR verification, and role-based access control
 
 CyberNurdin
 
@@ -91,3 +97,8 @@ I am particularly interested in security tooling that helps developers understan
 * Email: [nurdined3@gmail.com](mailto:nurdined3@gmail.com)
 
 
+Achievements
+1st Place — GDG Bamenda Build with AI Buildathon
+Project: Moyo Mesh
+11th Position — National ICT Innovation Week 2026, Cameroon
+Project: Chekkam
