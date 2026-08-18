@@ -97,7 +97,7 @@ I am particularly interested in security tooling that helps developers understan
 * Email: [nurdined3@gmail.com](mailto:nurdined3@gmail.com)
 
 
-Achievements
+### Achievements
 1st Place — GDG Bamenda Build with AI Buildathon
 Project: Moyo Mesh
 11th Position — National ICT Innovation Week 2026, Cameroon
