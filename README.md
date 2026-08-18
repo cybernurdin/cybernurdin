@@ -39,15 +39,15 @@ An AI-powered crisis-response and aid-tracking platform built for Bamenda.
 
 **Technologies:** Flutter, Google Cloud Firestore, AI keyword classification, geotagged alerts.
 
-Chekkam
+### Chekkam
 
 A cybersecurity and digital-trust platform designed to help individuals and institutions in Cameroon detect scams, verify digital documents, and make safer decisions online.
 
 Chekkam combines AI-assisted suspicious-message analysis, scam and phishing reporting, cryptographic document signing and verification, browser/mobile checking, and human-reviewed community security intelligence.
 
-Achievement: 11th Position — National ICT Innovation Week 2026, Cameroon
+### Achievement: 11th Position — National ICT Innovation Week 2026, Cameroon
 
-Competition Theme: Protecting Cyberspace from the Misuse of Artificial Intelligence and Promoting Digital Patriotism.
+### Competition Theme: Protecting Cyberspace from the Misuse of Artificial Intelligence and Promoting Digital Patriotism.
 
 Security Focus: Cybersecurity, scam and phishing detection, digital trust, AI-assisted threat analysis, cryptographic verification, secure APIs, and identity/document authenticity.
 
